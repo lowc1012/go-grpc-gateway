@@ -1,7 +1,7 @@
 
 syntax = "proto3";
 
-option go_package = "github.com/lowc1012/grpc-gateway/protogen/go/product";
+option go_package = "github.com/lowc1012/go-grpc-gateway/protogen/go/product";
 
 enum ProductType {
   UNKNOWN = 0;

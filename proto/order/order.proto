@@ -2,7 +2,7 @@
 // and format for describing protocol buffer message types and services
 syntax = "proto3";
 
-option go_package = "github.com/lowc1012/grpc-gateway/protogen/go/order";
+option go_package = "github.com/lowc1012/go-grpc-gateway/protogen/go/order";
 
 import "product/product.proto";
 // Google provides a lot of custom types that are not supported by protobuf out of the box
