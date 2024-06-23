@@ -1,5 +1,5 @@
-
 syntax = "proto3";
+package main;
 
 option go_package = "github.com/lowc1012/go-grpc-gateway/protogen/go/product";
 

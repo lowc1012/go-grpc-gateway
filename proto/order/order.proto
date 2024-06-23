@@ -1,6 +1,5 @@
-// syntax refers to the set of rules that define the structure
-// and format for describing protocol buffer message types and services
 syntax = "proto3";
+package main;
 
 option go_package = "github.com/lowc1012/go-grpc-gateway/protogen/go/order";
 
